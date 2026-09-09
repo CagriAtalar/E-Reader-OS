@@ -1,0 +1,4 @@
+Hello, World!
+
+This is a short test file. It has only a few lines.
+It is used to test files smaller than one screen page.

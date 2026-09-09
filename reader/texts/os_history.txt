@@ -1,0 +1,71 @@
+A Brief History of Operating Systems
+=====================================
+
+An operating system (OS) is the software that manages computer hardware and
+provides services for application programs. The history of operating systems
+is the history of computing itself.
+
+1950s: Batch Processing
+------------------------
+
+The earliest computers had no operating system at all. Programs were loaded
+one at a time using punch cards, and the computer would execute them
+sequentially. This was known as batch processing.
+
+Operators would physically load program cards into the machine, wait for the
+program to complete, and then load the next one. This was slow and wasteful,
+as the expensive computer hardware sat idle between jobs.
+
+1960s: Time-Sharing
+--------------------
+
+The concept of time-sharing emerged in the 1960s. Multiple users could share
+a single computer by rapidly switching between their programs. Each user
+appeared to have the machine to themselves.
+
+CTSS (Compatible Time-Sharing System) at MIT was one of the first time-sharing
+systems. It led to the development of Multics, which in turn inspired Unix.
+
+1970s: Unix
+-----------
+
+Unix was created by Ken Thompson and Dennis Ritchie at Bell Labs in 1969. It
+was written in C, making it portable across different hardware platforms. This
+was revolutionary -- previous operating systems were tied to specific machines.
+
+Unix introduced many concepts still used today: hierarchical file systems,
+pipes, shell scripting, and the philosophy of small, composable tools.
+
+1980s: Personal Computers
+--------------------------
+
+The IBM PC, introduced in 1981, brought computing to the masses. MS-DOS
+became the dominant operating system for personal computers, followed by
+early versions of Windows.
+
+Apple introduced the Macintosh in 1984 with a graphical user interface,
+inspired by work done at Xerox PARC. This made computers accessible to
+non-technical users for the first time.
+
+1990s: The Internet Age
+------------------------
+
+The 1990s saw the rise of Windows 95, which combined the ease of use of a
+graphical interface with the power of a 32-bit operating system. Linux,
+created by Linus Torvalds in 1991, began as a hobby project and grew into
+a major force in server computing.
+
+The World Wide Web, invented by Tim Berners-Lee in 1989, transformed how
+people used computers and drove demand for more capable operating systems.
+
+2000s and Beyond
+-----------------
+
+Modern operating systems are incredibly complex pieces of software. They
+manage multiple processors, gigabytes of memory, and sophisticated security
+models. Mobile operating systems like Android and iOS have brought computing
+to billions of people worldwide.
+
+Yet the fundamental challenges remain the same: managing hardware resources
+efficiently, providing a stable platform for applications, and keeping users
+safe from malicious software.
